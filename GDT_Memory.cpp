@@ -15,7 +15,7 @@
 #include <sys/types.h>
 #include "GDT_Memory.h"
 #include <cstring>
-#include <malloc.h>
+#include <stdlib.h>
 #include <algorithm>
 
 using namespace GDT_Memory;
